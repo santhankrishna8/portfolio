@@ -9,11 +9,11 @@ nav{
     
     line-height: 3rem;
     font-size: 1.5rem;
-    
+    background-color: black;
     display: flex;
     justify-content: flex-end;
     height:7vh;
-    padding:1rem;
+    padding:.5rem;
      
 }
 .n{
@@ -28,7 +28,7 @@ nav{
 }
 .button:hover,.button:active,.button:focus{
     
-    color:black;
+    color:rgb(243, 242, 242);
 }
 
 
