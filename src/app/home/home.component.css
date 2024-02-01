@@ -28,10 +28,11 @@ img{
 }
 img:hover{
     
-    transform : scale(1.2 );
+    transform : 2s ease-in-out ;
     
     transition-timing-function: linear;
-
+   
+    
 }
 .right{
     
