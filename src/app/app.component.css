@@ -82,3 +82,11 @@ ul{
     color:black;
    
 }
+@media only screen and (min-width:320px) and (max-width:576px)  {
+    .container{
+        width:100%;
+        padding-left: 23px;
+        flex-direction: column-reverse;
+    }
+    
+}
