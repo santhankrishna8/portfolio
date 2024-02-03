@@ -85,7 +85,7 @@ ul{
 .container {
     display: flex;
     flex-wrap: wrap;
-    width: 980px;
+    width: 600px;
     margin: 0 auto;
     margin-top: 40px;
   }
