@@ -93,7 +93,7 @@ ul{
     .container{
         width:100%;
         padding-left: 23px;
-        flex-direction: column-reverse;
+        flex-direction: column;
     }
     
 }
